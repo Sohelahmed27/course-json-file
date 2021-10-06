@@ -1,0 +1,17 @@
+.Header{
+  
+  background-color:rgb(114, 114, 243);
+  color:white;
+  line-height: 50px;
+  gap: 30px;
+  text-align: center;
+  
+  
+}
+.text{
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 30px;
+  
+}

@@ -1,0 +1,13 @@
+.cart{
+  margin: 10px;
+  border: 1px solid wheat;
+  padding: 10px;
+  height: 400px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+.search-container{
+  text-align: center;
+  margin-top: 20px;
+}

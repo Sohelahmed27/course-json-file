@@ -1,0 +1,23 @@
+.footer{
+  text-align: center;
+  margin-top: 40px;
+}
+.footer-container{
+  background-color:rgb(89, 89, 207);
+  padding: 50px;
+}
+.footer-menu {
+  list-style: none;
+  margin-top: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.footer-menu:hover {
+  color:darkblue;
+}
+.footer-input {
+  padding: 8px;
+  border: none;
+  outline: none;
+  
+}
