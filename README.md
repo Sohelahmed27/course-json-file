@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About Website
+Website Link: https://tender-lamarr-19c4fd.netlify.app/
+Code Link: https://github.com/Sohelahmed27/course-json-file
+
+## How we have done this work
+1. React-Router have used.
+2. Boostraph has used to design the card.
+3. Fake API has used.
